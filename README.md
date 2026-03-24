@@ -25,7 +25,7 @@ A solução foi construída utilizando base de dados estruturada em Excel, com a
 
 ## 📸 Preview do Dashboard
 
-![Dashboard]()
+![Dashboard](DashboardPunchList.png)
 
 ---
 
