@@ -77,8 +77,7 @@ Rodrigo Gonçalves Cunha de Souza
 
 ## 📬 Contato
 
-Email: rodrigogoncalves49702@gmail.com
-Telefone: (18)996731296
-Linkedin: https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-dev/
-
+📧 **Email:** [rodrigogoncalves49702@gmail.com](mailto:rodrigogoncalves49702@gmail.com)  
+📱 **Telefone:** [(18) 99673-1296](tel:+5518996731296)  
+💼 **LinkedIn:** [rodrigo-gonçalves-dev](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-dev/)
 ---
