@@ -1,4 +1,4 @@
-# 📊 Dashboard Punch List Elétrica
+# 📊 Dashboard - Punch List geral com base nas disciplinas de Elétrica e Tubulação
 
 Dashboard desenvolvido em Power BI com foco no acompanhamento de progresso físico e controle de horas (HH) em atividades de obra industrial.
 
@@ -25,7 +25,7 @@ A solução foi construída utilizando base de dados estruturada em Excel, com a
 
 ## 📸 Preview do Dashboard
 
-![Dashboard](DashboardPunchList.png)
+![Dashboard](dashboard_total.png)
 
 ---
 
